@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5304b166-9436-4620-bec5-e97e11bc6252" name="Default Changelist" comment="" />
+    <list default="true" id="d91eca0b-2bf9-43f1-8632-c76c9660ed26" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +13,17 @@
       <executable />
     </execution>
   </component>
-  <component name="ProjectId" id="1XwpGBXpWFYXwuDNMOkSjtoDU1C" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4kgiNEmFm94PfddyoLbqQaIcd" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,12 +42,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5304b166-9436-4620-bec5-e97e11bc6252" name="Default Changelist" comment="" />
-      <created>1581966912826</created>
+      <changelist id="d91eca0b-2bf9-43f1-8632-c76c9660ed26" name="Default Changelist" comment="" />
+      <created>1584105866068</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581966912826</updated>
-      <workItem from="1581966915989" duration="712000" />
+      <updated>1584105866068</updated>
+      <workItem from="1584105867297" duration="4026000" />
     </task>
     <servers />
   </component>
